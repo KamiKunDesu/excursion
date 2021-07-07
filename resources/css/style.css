@@ -13,6 +13,7 @@ h1 {
 .link {
     font-size: 16px;
     color: aquamarine;
+    text-decoration: none;
 }
 
 video {
@@ -39,3 +40,9 @@ footer p {
     text-align: right;
     color: gray;
 }
+
+a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
